@@ -1,0 +1,93 @@
+#wrapper{
+  width: 1280px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+.title h1, h2{
+  font-family: 'Abril Fatface', cursive;
+  color: #222222;
+}
+.title h1 {
+  font-size: 60px;
+  margin: 0px;
+}
+.title h2 {
+  font-size: 40px;
+  margin: 0px;
+}
+
+.title{
+  width: 800px;
+  margin-bottom: 30px;
+}
+nav{
+  height: 5px;
+  background: #000000;
+}
+header{
+  height: 410px;
+  width: 1280px;
+background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin: 0 0 70px 0;
+}
+#content{
+    width: 800px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+.text{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222222;
+  font-size: 20px;
+  padding: 0px 40px 20px 40px;
+}
+
+.idezet{
+  font-family: 'Abril Fatface', cursive;
+  color: #ffffff;
+  text-align: center;
+  font-size: 50px;
+  padding: 50px 40px 50px 40px;
+  background-color: #444444;
+  position: relative;
+  text-align: left;
+  margin: 30px 0 30px 0;
+
+}
+.idezet .ijel{
+  font-size: 130px;
+  position: absolute;
+  top:0;
+  margin: -40px 0 0 -40px;
+}
+
+h3{
+  font-size: 25px;
+  padding: 40px 40px 40px 40px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-transform:uppercase;
+}
+h4{
+  font-size: 25px;
+  padding: 0px 40px 0px 40px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h5{
+  font-size: 18px;
+  padding: 0px 40px 0px 40px;
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  margin: -30px 0 0 0;
+}
+.felsor{
+  font-size: 15px;
+}
+hr{
+  border-width: 2px;
+  border-color: #000000;
+}
